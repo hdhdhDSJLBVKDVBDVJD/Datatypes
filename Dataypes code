@@ -1,0 +1,24 @@
+#datatypes
+int1 = 36
+int2 = 36
+var1 = "Its a string datatype."
+var2 = "Its a string datatyp​e."
+print(int1 + int2)
+print(var1 + var2)  # sum
+str1 = "This is a string datatype."
+print(str1[0:46])
+#This is the length of the sentence
+str2 = "Bill is a big dreamer."
+print(str2[0:27])
+int3 = 36 #This a integer variable.
+int4 = 26 #This a integer variable.
+print(int3 + int4)
+float = 36.7  # It is a float variable.
+print(str1)
+int1 = 50
+int2 = 50
+print(int1 + int2)
+str3 = "This is a string text."
+print(str3[0:22])
+str4 = "Tim Gates"
+print(str4[0:6])
